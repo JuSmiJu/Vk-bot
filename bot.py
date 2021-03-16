@@ -6,7 +6,7 @@ from vk_api.utils import get_random_id
 import vk_api
 import os
 
-token = 'c5f759ca8743782c2343cc1947a08b88c9be5a89b80044fe71597dda90c830e94227b202bc68c2bc8c652'
+token = 'Yuor token'
 vk_session = vk_api.VkApi(token=token)
 
 session_api = vk_session.get_api()
